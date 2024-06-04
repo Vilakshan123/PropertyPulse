@@ -26,7 +26,7 @@ previous two years in Delhi-NCR, together with their locationrelated education a
 
 I have done following things in the project
 
-(!)Designed and implemented a robust real estate web interface comprising UI/UX elements.
+(1)Designed and implemented a robust real estate web interface comprising UI/UX elements.
 (2)Integrated APIs to facilitate seamless communication between the frontend and backend
 systems.
 (3)Managed MongoDB database for efficient storage and retrieval of real estate data.
