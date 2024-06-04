@@ -1,4 +1,6 @@
 PropertyPulse: A Real Estate Management Platform 
+
+
 we introduce PropertyPulse, an interactive analytics solution designed to meet local real estate 
 industry customer needs and assist agents from diverse 
 backgrounds. As a result, PropertyPulse enhances the existing 
